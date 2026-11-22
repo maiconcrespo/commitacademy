@@ -1,0 +1,8 @@
+
+Una empresa dedicada al desarrollo de software ha implementado un sistema de inteligencia artificial para mejorar la atención al cliente. El sistema utiliza un modelo de lenguaje que analiza las consultas recibidas y genera respuestas automáticas a las preguntas más frecuentes.
+
+Durante los primeros tres meses de funcionamiento, el sistema procesó aproximadamente 12.000 consultas. El 70 % de ellas se resolvió automáticamente, mientras que el 30 % restante necesitó la intervención de un empleado.
+
+La empresa observó una reducción del tiempo medio de respuesta de 15 minutos a menos de 2 minutos. Sin embargo, identificó dificultades para responder preguntas complejas y consultas que requerían información actualizada.
+
+Como siguiente paso, planea integrar una base de conocimientos y un sistema de supervisión humana para mejorar la precisión y reducir los errores.

@@ -51,6 +51,9 @@ secret/
 *.orig
 *~
 
+# Duplicate delivery archives
+*.zip
+
 # Dependencies, generated output and caches
 node_modules/
 .pnpm-store/
